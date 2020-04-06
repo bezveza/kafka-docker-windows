@@ -1,0 +1,2 @@
+https://www.instaclustr.com/support/documentation/kafka/accessing-and-using-kafka/use-kafka-with-c/
+https://www.infoworld.com/article/3215165/how-to-use-apache-kafka-messaging-in-net.html
